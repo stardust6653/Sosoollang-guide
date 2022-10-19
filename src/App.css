@@ -1,0 +1,14 @@
+body {
+  display: flex;
+  justify-content: center;
+}
+
+@font-face {
+  font-family: "Sunflower";
+  src: url("/src/styles/fonts/Sunflower-Bold.ttf");
+}
+
+@font-face {
+  font-family: "OpenSans";
+  src: url("/src/styles/fonts/OpenSans-Medium.ttf");
+}
